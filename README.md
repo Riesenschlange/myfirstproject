@@ -7,8 +7,7 @@
 
 [Lorem Ipsum](https://ru.lipsum.com)
 
-![упс, сорри, что-то пошло не так(]
-(https://bipbap.ru/wp-content/uploads/2017/10/0_8eb56_842bba74_XL-640x400.jpg)
+![упс, сорри, что-то пошло не так(](https://bipbap.ru/wp-content/uploads/2017/10/0_8eb56_842bba74_XL-640x400.jpg)
 
 |*Предмет*	|*Количество*	|*Цена*|
 |------| - |----|
