@@ -6,3 +6,12 @@
 * Donec ornare purus sem, at blandit velit pulvinar at. Fusce cursus lacus facilisis elit ornare, non egestas lectus euismod. Phasellus eget tortor fringilla, convallis sapien sed, aliquet purus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean scelerisque nulla non ipsum pellentesque tempor. Maecenas ornare eros et nunc molestie varius. In efficitur volutpat semper. Morbi posuere erat ac ullamcorper lacinia. Vivamus bibendum sollicitudin est, vel interdum orci molestie sed. Nulla mattis congue suscipit. Curabitur tincidunt, dui quis vestibulum sollicitudin, enim nibh feugiat eros, quis laoreet lectus enim quis quam. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse volutpat venenatis nisl, vitae bibendum enim maximus posuere. Curabitur mattis condimentum tempor. Aliquam erat volutpat. Sed tristique tincidunt elit quis aliquet.
 
 [Lorem Ipsum](https://ru.lipsum.com)
+
+![упс, сорри, что-то пошло не так(]
+(https://bipbap.ru/wp-content/uploads/2017/10/0_8eb56_842bba74_XL-640x400.jpg)
+
+|*Предмет*	|*Количество*	|*Цена*|
+|------| - |----|
+|**Арбуз**	|3	|150|
+|**Груша**	|10	|230|
+|~~Вишня~~	|~~80~~	|~~340~~|
